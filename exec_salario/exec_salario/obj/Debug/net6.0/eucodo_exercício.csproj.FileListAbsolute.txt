@@ -1,0 +1,15 @@
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.csproj.AssemblyReference.cache
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.AssemblyInfoInputs.cache
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.AssemblyInfo.cs
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.csproj.CoreCompileInputs.cache
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\bin\Debug\net6.0\eucodo_exercício.exe
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\bin\Debug\net6.0\eucodo_exercício.deps.json
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\bin\Debug\net6.0\eucodo_exercício.runtimeconfig.json
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\bin\Debug\net6.0\eucodo_exercício.dll
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\bin\Debug\net6.0\eucodo_exercício.pdb
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.dll
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\refint\eucodo_exercício.dll
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.pdb
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\eucodo_exercício.genruntimeconfig.cache
+C:\dados\Nova pasta\eucodo_exercício\eucodo_exercício\obj\Debug\net6.0\ref\eucodo_exercício.dll
