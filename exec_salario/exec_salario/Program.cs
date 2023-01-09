@@ -19,12 +19,12 @@ Se for maior que 20 anos e for mulher, salario aumenta 50%
 Se for maior que 30 anos e for homem, salario aumenta em 10%
 */
 
-if(sexo == "M" && idade > 30)
-{   
+if (sexo == "M" && idade > 30)
+{
     salario = salario * 1.1;
 }
 
-if(sexo == "F" && idade > 20)
+if (sexo == "F" && idade > 20)
 {
     salario = salario * 1.5;
 }

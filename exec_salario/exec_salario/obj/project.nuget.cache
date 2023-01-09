@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5FK8AGQwcJgXukdwQJdtoqHdEYw5xGEserfQyLXJA4ZOVCqJZxgbxHy7Bd4vUQMbEmYmJIzSLcisUmS0UEySA==",
+  "dgSpecHash": "PSKsGPXqlg/CHDT3uZfIM/UJqnvar63WDzvVYInTMP0CFk42YrBD9/VTfDxwYoV9c8JNHP5BTmqlYviHY6s+Yg==",
   "success": true,
-  "projectFilePath": "C:\\dados\\Nova pasta\\eucodo_exercício\\eucodo_exercício\\exec_salario.csproj",
+  "projectFilePath": "C:\\dados\\git\\eucodo\\exec_salario\\exec_salario\\exec_salario.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dados\\Nova pasta\\eucodo_exercício\\eucodo_exercício\\exec_salario.csproj",
+      "projectUniqueName": "C:\\dados\\git\\eucodo\\exec_salario\\exec_salario\\exec_salario.csproj",
       "projectName": "exec_salario",
-      "projectPath": "C:\\dados\\Nova pasta\\eucodo_exercício\\eucodo_exercício\\exec_salario.csproj",
+      "projectPath": "C:\\dados\\git\\eucodo\\exec_salario\\exec_salario\\exec_salario.csproj",
       "packagesPath": "C:\\Users\\Meninos\\.nuget\\packages\\",
-      "outputPath": "C:\\dados\\Nova pasta\\eucodo_exercício\\eucodo_exercício\\obj\\",
+      "outputPath": "C:\\dados\\git\\eucodo\\exec_salario\\exec_salario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meninos\\AppData\\Roaming\\NuGet\\NuGet.Config",
