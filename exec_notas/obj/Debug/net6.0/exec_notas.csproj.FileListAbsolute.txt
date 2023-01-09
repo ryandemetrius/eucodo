@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_notas\bin\Debug\net6.0\exec_notas.exe
+C:\dados\git\eucodo\exec_notas\bin\Debug\net6.0\exec_notas.deps.json
+C:\dados\git\eucodo\exec_notas\bin\Debug\net6.0\exec_notas.runtimeconfig.json
+C:\dados\git\eucodo\exec_notas\bin\Debug\net6.0\exec_notas.dll
+C:\dados\git\eucodo\exec_notas\bin\Debug\net6.0\exec_notas.pdb
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.dll
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\refint\exec_notas.dll
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.pdb
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\exec_notas.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_notas\obj\Debug\net6.0\ref\exec_notas.dll
