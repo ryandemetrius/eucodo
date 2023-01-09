@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_numerosInteiros\bin\Debug\net6.0\exec_numerosInteiros.exe
+C:\dados\git\eucodo\exec_numerosInteiros\bin\Debug\net6.0\exec_numerosInteiros.deps.json
+C:\dados\git\eucodo\exec_numerosInteiros\bin\Debug\net6.0\exec_numerosInteiros.runtimeconfig.json
+C:\dados\git\eucodo\exec_numerosInteiros\bin\Debug\net6.0\exec_numerosInteiros.dll
+C:\dados\git\eucodo\exec_numerosInteiros\bin\Debug\net6.0\exec_numerosInteiros.pdb
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.dll
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\refint\exec_numerosInteiros.dll
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.pdb
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\exec_numerosInteiros.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_numerosInteiros\obj\Debug\net6.0\ref\exec_numerosInteiros.dll
