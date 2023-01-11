@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_vetores\bin\Debug\net6.0\exec_vetores.exe
+C:\dados\git\eucodo\exec_vetores\bin\Debug\net6.0\exec_vetores.deps.json
+C:\dados\git\eucodo\exec_vetores\bin\Debug\net6.0\exec_vetores.runtimeconfig.json
+C:\dados\git\eucodo\exec_vetores\bin\Debug\net6.0\exec_vetores.dll
+C:\dados\git\eucodo\exec_vetores\bin\Debug\net6.0\exec_vetores.pdb
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.dll
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\refint\exec_vetores.dll
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.pdb
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\exec_vetores.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_vetores\obj\Debug\net6.0\ref\exec_vetores.dll

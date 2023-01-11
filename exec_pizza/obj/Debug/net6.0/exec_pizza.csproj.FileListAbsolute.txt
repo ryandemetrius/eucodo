@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_pizza\bin\Debug\net6.0\exec_pizza.exe
+C:\dados\git\eucodo\exec_pizza\bin\Debug\net6.0\exec_pizza.deps.json
+C:\dados\git\eucodo\exec_pizza\bin\Debug\net6.0\exec_pizza.runtimeconfig.json
+C:\dados\git\eucodo\exec_pizza\bin\Debug\net6.0\exec_pizza.dll
+C:\dados\git\eucodo\exec_pizza\bin\Debug\net6.0\exec_pizza.pdb
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.dll
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\refint\exec_pizza.dll
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.pdb
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\exec_pizza.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_pizza\obj\Debug\net6.0\ref\exec_pizza.dll

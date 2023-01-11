@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_estruturas_repeticao\bin\Debug\net6.0\exec_estruturas_repeticao.exe
+C:\dados\git\eucodo\exec_estruturas_repeticao\bin\Debug\net6.0\exec_estruturas_repeticao.deps.json
+C:\dados\git\eucodo\exec_estruturas_repeticao\bin\Debug\net6.0\exec_estruturas_repeticao.runtimeconfig.json
+C:\dados\git\eucodo\exec_estruturas_repeticao\bin\Debug\net6.0\exec_estruturas_repeticao.dll
+C:\dados\git\eucodo\exec_estruturas_repeticao\bin\Debug\net6.0\exec_estruturas_repeticao.pdb
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.dll
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\refint\exec_estruturas_repeticao.dll
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.pdb
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\exec_estruturas_repeticao.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_estruturas_repeticao\obj\Debug\net6.0\ref\exec_estruturas_repeticao.dll

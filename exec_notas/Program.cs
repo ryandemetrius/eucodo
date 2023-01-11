@@ -16,5 +16,3 @@ if (mediaAno >= 70)
 {
     Console.WriteLine("Você foi reprovado! Faltaram " + pontosFaltou + " pontos para você ser aprovado.");
 }
-
-Console.ReadKey();

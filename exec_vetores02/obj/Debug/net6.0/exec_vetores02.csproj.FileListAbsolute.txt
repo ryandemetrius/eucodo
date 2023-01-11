@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_vetores02\bin\Debug\net6.0\exec_vetores02.exe
+C:\dados\git\eucodo\exec_vetores02\bin\Debug\net6.0\exec_vetores02.deps.json
+C:\dados\git\eucodo\exec_vetores02\bin\Debug\net6.0\exec_vetores02.runtimeconfig.json
+C:\dados\git\eucodo\exec_vetores02\bin\Debug\net6.0\exec_vetores02.dll
+C:\dados\git\eucodo\exec_vetores02\bin\Debug\net6.0\exec_vetores02.pdb
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.dll
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\refint\exec_vetores02.dll
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.pdb
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\exec_vetores02.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_vetores02\obj\Debug\net6.0\ref\exec_vetores02.dll

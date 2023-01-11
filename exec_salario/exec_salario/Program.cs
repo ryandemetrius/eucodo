@@ -30,5 +30,3 @@ if (sexo == "F" && idade > 20)
 }
 
 Console.WriteLine("seu salário é igual a: " + salario);
-
-Console.ReadKey();
