@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_funcionario\bin\Debug\net6.0\exec_funcionario.exe
+C:\dados\git\eucodo\exec_funcionario\bin\Debug\net6.0\exec_funcionario.deps.json
+C:\dados\git\eucodo\exec_funcionario\bin\Debug\net6.0\exec_funcionario.runtimeconfig.json
+C:\dados\git\eucodo\exec_funcionario\bin\Debug\net6.0\exec_funcionario.dll
+C:\dados\git\eucodo\exec_funcionario\bin\Debug\net6.0\exec_funcionario.pdb
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.dll
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\refint\exec_funcionario.dll
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.pdb
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\exec_funcionario.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_funcionario\obj\Debug\net6.0\ref\exec_funcionario.dll
