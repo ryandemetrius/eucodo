@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_parametroOpcionsl\bin\Debug\net6.0\exec_parametroOpcionsl.exe
+C:\dados\git\eucodo\exec_parametroOpcionsl\bin\Debug\net6.0\exec_parametroOpcionsl.deps.json
+C:\dados\git\eucodo\exec_parametroOpcionsl\bin\Debug\net6.0\exec_parametroOpcionsl.runtimeconfig.json
+C:\dados\git\eucodo\exec_parametroOpcionsl\bin\Debug\net6.0\exec_parametroOpcionsl.dll
+C:\dados\git\eucodo\exec_parametroOpcionsl\bin\Debug\net6.0\exec_parametroOpcionsl.pdb
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.dll
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\refint\exec_parametroOpcionsl.dll
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.pdb
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\exec_parametroOpcionsl.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_parametroOpcionsl\obj\Debug\net6.0\ref\exec_parametroOpcionsl.dll
