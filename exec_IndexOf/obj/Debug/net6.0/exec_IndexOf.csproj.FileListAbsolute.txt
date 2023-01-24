@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_IndexOf\bin\Debug\net6.0\exec_IndexOf.exe
+C:\dados\git\eucodo\exec_IndexOf\bin\Debug\net6.0\exec_IndexOf.deps.json
+C:\dados\git\eucodo\exec_IndexOf\bin\Debug\net6.0\exec_IndexOf.runtimeconfig.json
+C:\dados\git\eucodo\exec_IndexOf\bin\Debug\net6.0\exec_IndexOf.dll
+C:\dados\git\eucodo\exec_IndexOf\bin\Debug\net6.0\exec_IndexOf.pdb
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.dll
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\refint\exec_IndexOf.dll
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.pdb
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\exec_IndexOf.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_IndexOf\obj\Debug\net6.0\ref\exec_IndexOf.dll

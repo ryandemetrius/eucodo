@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\bin\Debug\net6.0\exec_StartWith()EndsWith().exe
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\bin\Debug\net6.0\exec_StartWith()EndsWith().deps.json
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\bin\Debug\net6.0\exec_StartWith()EndsWith().runtimeconfig.json
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\bin\Debug\net6.0\exec_StartWith()EndsWith().dll
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\bin\Debug\net6.0\exec_StartWith()EndsWith().pdb
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().AssemblyInfo.cs
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().dll
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\refint\exec_StartWith()EndsWith().dll
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().pdb
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\exec_StartWith()EndsWith().genruntimeconfig.cache
+C:\dados\git\eucodo\exec_StartWith()EndsWith()\obj\Debug\net6.0\ref\exec_StartWith()EndsWith().dll

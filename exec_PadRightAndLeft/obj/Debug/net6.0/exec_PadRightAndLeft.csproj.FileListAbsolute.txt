@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_PadRightAndLeft\bin\Debug\net6.0\exec_PadRightAndLeft.exe
+C:\dados\git\eucodo\exec_PadRightAndLeft\bin\Debug\net6.0\exec_PadRightAndLeft.deps.json
+C:\dados\git\eucodo\exec_PadRightAndLeft\bin\Debug\net6.0\exec_PadRightAndLeft.runtimeconfig.json
+C:\dados\git\eucodo\exec_PadRightAndLeft\bin\Debug\net6.0\exec_PadRightAndLeft.dll
+C:\dados\git\eucodo\exec_PadRightAndLeft\bin\Debug\net6.0\exec_PadRightAndLeft.pdb
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.dll
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\refint\exec_PadRightAndLeft.dll
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.pdb
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\exec_PadRightAndLeft.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_PadRightAndLeft\obj\Debug\net6.0\ref\exec_PadRightAndLeft.dll
