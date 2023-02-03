@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_datasArquivo\bin\Debug\net6.0\exec_datasArquivo.exe
+C:\dados\git\eucodo\exec_datasArquivo\bin\Debug\net6.0\exec_datasArquivo.deps.json
+C:\dados\git\eucodo\exec_datasArquivo\bin\Debug\net6.0\exec_datasArquivo.runtimeconfig.json
+C:\dados\git\eucodo\exec_datasArquivo\bin\Debug\net6.0\exec_datasArquivo.dll
+C:\dados\git\eucodo\exec_datasArquivo\bin\Debug\net6.0\exec_datasArquivo.pdb
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.dll
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\refint\exec_datasArquivo.dll
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.pdb
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\exec_datasArquivo.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_datasArquivo\obj\Debug\net6.0\ref\exec_datasArquivo.dll

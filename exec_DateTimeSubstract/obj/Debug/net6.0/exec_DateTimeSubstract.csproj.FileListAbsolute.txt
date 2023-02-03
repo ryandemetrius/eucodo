@@ -1,0 +1,15 @@
+C:\dados\git\eucodo\exec_DateTimeSubstract\bin\Debug\net6.0\exec_DateTimeSubstract.exe
+C:\dados\git\eucodo\exec_DateTimeSubstract\bin\Debug\net6.0\exec_DateTimeSubstract.deps.json
+C:\dados\git\eucodo\exec_DateTimeSubstract\bin\Debug\net6.0\exec_DateTimeSubstract.runtimeconfig.json
+C:\dados\git\eucodo\exec_DateTimeSubstract\bin\Debug\net6.0\exec_DateTimeSubstract.dll
+C:\dados\git\eucodo\exec_DateTimeSubstract\bin\Debug\net6.0\exec_DateTimeSubstract.pdb
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.csproj.AssemblyReference.cache
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.AssemblyInfoInputs.cache
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.AssemblyInfo.cs
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.csproj.CoreCompileInputs.cache
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.dll
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\refint\exec_DateTimeSubstract.dll
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.pdb
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\exec_DateTimeSubstract.genruntimeconfig.cache
+C:\dados\git\eucodo\exec_DateTimeSubstract\obj\Debug\net6.0\ref\exec_DateTimeSubstract.dll
