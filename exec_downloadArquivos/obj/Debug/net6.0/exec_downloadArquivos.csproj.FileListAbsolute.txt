@@ -1,0 +1,15 @@
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.csproj.AssemblyReference.cache
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.AssemblyInfoInputs.cache
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.AssemblyInfo.cs
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.csproj.CoreCompileInputs.cache
+C:\eucodo\exec_downloadArquivos\bin\Debug\net6.0\exec_downloadArquivos.exe
+C:\eucodo\exec_downloadArquivos\bin\Debug\net6.0\exec_downloadArquivos.deps.json
+C:\eucodo\exec_downloadArquivos\bin\Debug\net6.0\exec_downloadArquivos.runtimeconfig.json
+C:\eucodo\exec_downloadArquivos\bin\Debug\net6.0\exec_downloadArquivos.dll
+C:\eucodo\exec_downloadArquivos\bin\Debug\net6.0\exec_downloadArquivos.pdb
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.dll
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\refint\exec_downloadArquivos.dll
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.pdb
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\exec_downloadArquivos.genruntimeconfig.cache
+C:\eucodo\exec_downloadArquivos\obj\Debug\net6.0\ref\exec_downloadArquivos.dll
