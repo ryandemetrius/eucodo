@@ -1,0 +1,17 @@
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.csproj.AssemblyReference.cache
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.AssemblyInfoInputs.cache
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.AssemblyInfo.cs
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.csproj.CoreCompileInputs.cache
+C:\eucodo\exec_consumindoApiCEP\bin\Debug\net6.0\exec_consumindoApiCEP.exe
+C:\eucodo\exec_consumindoApiCEP\bin\Debug\net6.0\exec_consumindoApiCEP.deps.json
+C:\eucodo\exec_consumindoApiCEP\bin\Debug\net6.0\exec_consumindoApiCEP.runtimeconfig.json
+C:\eucodo\exec_consumindoApiCEP\bin\Debug\net6.0\exec_consumindoApiCEP.dll
+C:\eucodo\exec_consumindoApiCEP\bin\Debug\net6.0\exec_consumindoApiCEP.pdb
+C:\eucodo\exec_consumindoApiCEP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.csproj.CopyComplete
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.dll
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\refint\exec_consumindoApiCEP.dll
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.pdb
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\exec_consumindoApiCEP.genruntimeconfig.cache
+C:\eucodo\exec_consumindoApiCEP\obj\Debug\net6.0\ref\exec_consumindoApiCEP.dll
