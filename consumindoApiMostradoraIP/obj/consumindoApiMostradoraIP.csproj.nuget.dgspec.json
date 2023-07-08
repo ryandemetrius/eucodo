@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\eucodo\\consumindoApiDadosDosEUA\\consumindoApiDadosDosEUA.csproj": {}
+    "C:\\eucodo\\consumindoApiMostradoraIP\\consumindoApiMostradoraIP.csproj": {}
   },
   "projects": {
-    "c:\\eucodo\\consumindoApiDadosDosEUA\\consumindoApiDadosDosEUA.csproj": {
+    "C:\\eucodo\\consumindoApiMostradoraIP\\consumindoApiMostradoraIP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\eucodo\\consumindoApiDadosDosEUA\\consumindoApiDadosDosEUA.csproj",
-        "projectName": "consumindoApiDadosDosEUA",
-        "projectPath": "c:\\eucodo\\consumindoApiDadosDosEUA\\consumindoApiDadosDosEUA.csproj",
+        "projectUniqueName": "C:\\eucodo\\consumindoApiMostradoraIP\\consumindoApiMostradoraIP.csproj",
+        "projectName": "consumindoApiMostradoraIP",
+        "projectPath": "C:\\eucodo\\consumindoApiMostradoraIP\\consumindoApiMostradoraIP.csproj",
         "packagesPath": "C:\\Users\\ryand\\.nuget\\packages\\",
-        "outputPath": "c:\\eucodo\\consumindoApiDadosDosEUA\\obj\\",
+        "outputPath": "C:\\eucodo\\consumindoApiMostradoraIP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "RestSharp": {
-              "target": "Package",
-              "version": "[110.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

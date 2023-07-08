@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "du8j0FfaIe9Yncaf1MWAeKopamB2tj+eghxFE/U6N+KG8fv81UxcbzzyBwoWHXM3nI/fFxqeTCKx4rGyUt8YUA==",
+  "dgSpecHash": "TXciZlPAINMcq5fZPc1457GGZwwlukq8iDPIb5lNYPxh40WUwlBeuTbIDxsFPVvtzMUq92OSns8aqDtgaZUerg==",
   "success": true,
-  "projectFilePath": "c:\\eucodo\\consumindoApiDadosDosEUA\\consumindoApiDadosDosEUA.csproj",
+  "projectFilePath": "C:\\eucodo\\consumindoApiPaises\\consumindoApiPaises.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ryand\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",

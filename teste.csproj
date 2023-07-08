@@ -1,0 +1,4 @@
+Console.WriteLine("teste");
+string response = Console.ReadLine();
+
+Console.WriteLine("voce escreveu" + response);
