@@ -1,0 +1,15 @@
+c:\eucodo\testeConsoleAppNoVSCode\bin\Debug\net7.0\testeConsoleAppNoVSCode.exe
+c:\eucodo\testeConsoleAppNoVSCode\bin\Debug\net7.0\testeConsoleAppNoVSCode.deps.json
+c:\eucodo\testeConsoleAppNoVSCode\bin\Debug\net7.0\testeConsoleAppNoVSCode.runtimeconfig.json
+c:\eucodo\testeConsoleAppNoVSCode\bin\Debug\net7.0\testeConsoleAppNoVSCode.dll
+c:\eucodo\testeConsoleAppNoVSCode\bin\Debug\net7.0\testeConsoleAppNoVSCode.pdb
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.csproj.AssemblyReference.cache
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.GeneratedMSBuildEditorConfig.editorconfig
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.AssemblyInfoInputs.cache
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.AssemblyInfo.cs
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.csproj.CoreCompileInputs.cache
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.dll
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\refint\testeConsoleAppNoVSCode.dll
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.pdb
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\testeConsoleAppNoVSCode.genruntimeconfig.cache
+c:\eucodo\testeConsoleAppNoVSCode\obj\Debug\net7.0\ref\testeConsoleAppNoVSCode.dll
