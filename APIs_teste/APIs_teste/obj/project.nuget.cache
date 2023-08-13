@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0OFdeWzvgECSqrLAiKjDjKHVt+bDQdZxUajgLMhWC+DI3xGxgwCFzws9BkA6zUhRvf7f+hYFklYTBpYbHy0ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\eucodo\\APIs_teste\\APIs_teste\\APIs_teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

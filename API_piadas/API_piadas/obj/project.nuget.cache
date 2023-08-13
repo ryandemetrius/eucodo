@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKrbCKBu3bZ0MgQOOtOeyDXWZvbIJbeuEAjSHDsKZn3+bmKQr0Y/ERvgLTMIRko3RisYT/Pke3vG40nM5bClpg==",
+  "success": true,
+  "projectFilePath": "C:\\eucodo\\API_piadas\\API_piadas\\API_piadas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryand\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

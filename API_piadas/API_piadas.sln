@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_piadas", "API_piadas\API_piadas.csproj", "{EF029FB0-33F0-44AE-8533-D5ABB859C829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF029FB0-33F0-44AE-8533-D5ABB859C829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF029FB0-33F0-44AE-8533-D5ABB859C829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF029FB0-33F0-44AE-8533-D5ABB859C829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF029FB0-33F0-44AE-8533-D5ABB859C829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB98D27-3200-4BE6-BD3B-4EC8C9882FC7}
+	EndGlobalSection
+EndGlobal
