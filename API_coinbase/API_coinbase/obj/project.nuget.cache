@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqq+omtN4lWgBY+oTT0vzxWn6OLKkmIM7T9KtV9IgSiN9nAnQgLX5zDcgKF/uornQhvcUP/vIkVvy09jMVQD6A==",
+  "success": true,
+  "projectFilePath": "C:\\eucodo\\API_coinbase\\API_coinbase\\API_coinbase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
